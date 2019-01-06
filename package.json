@@ -10,11 +10,15 @@
   "author": "Jonas Galvez",
   "dependencies": {
     "@dimerapp/markdown": "^3.2.0",
+    "@vue/cli": "^3.2.3",
     "copy-webpack-plugin": "^4.5.2",
     "fs-extra": "^6.0.1",
     "lodash": "^4.17.10",
     "markdown-it": "^8.4.2",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vuetify": "^1.4.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",

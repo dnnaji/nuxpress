@@ -8,67 +8,19 @@
 		<email>jonasgalvez@gmail.com</email>
 		<uri>http://hire.jonasgalvez.com.br/</uri>
 	</author>
-	<updated>2018-06-16T05:00:00.000Z</updated>
+	<updated>2017-07-16T05:00:00.000Z</updated>
 	<link href="http://hire.jonasgalvez.com.br/"/>
 	<entry>
-		<id>tag:test.com,2018:1529125200000</id>
-		<link href="http://test.com/2018/Jun/16/My-Nuxt-and-Koa-Boilerplate"/>
-		<title>My Nuxt and Koa Boilerplate</title>
-		<updated>2018-06-16T05:00:00.000Z</updated>
-	</entry>
-	<entry>
-		<id>tag:test.com,2018:1526792400000</id>
-		<link href="http://test.com/2018/May/20/You-Don't-Need-REST"/>
-		<title>You Don't Need REST</title>
-		<updated>2018-05-20T05:00:00.000Z</updated>
-	</entry>
-	<entry>
-		<id>tag:test.com,2017:1503637200000</id>
-		<link href="http://test.com/2017/Aug/25/Leaving-Python-for-JavaScript"/>
-		<title>Leaving Python for JavaScript</title>
-		<updated>2017-08-25T05:00:00.000Z</updated>
-	</entry>
-	<entry>
-		<id>tag:test.com,2017:1500786000000</id>
-		<link href="http://test.com/2017/Jul/23/Nuxt-and-ElementUI"/>
-		<title>Nuxt and ElementUI</title>
-		<updated>2017-07-23T05:00:00.000Z</updated>
-	</entry>
-	<entry>
-		<id>tag:test.com,2017:1500181200000</id>
-		<link href="http://test.com/2017/Jul/16/My-Approach-to-Remote-Work"/>
+		<id>tag:hire.jonasgalvez.com.br,2017:1500181200000</id>
+		<link href="http://hire.jonasgalvez.com.br/2017/Jul/16/My-Approach-to-Remote-Work"/>
 		<title>My Approach to Remote Work</title>
 		<updated>2017-07-16T05:00:00.000Z</updated>
 	</entry>
 	<entry>
-		<id>tag:test.com,2017:1498194000000</id>
-		<link href="http://test.com/2017/Jun/23/Why-Choose-Vue.js"/>
+		<id>tag:hire.jonasgalvez.com.br,2017:1498194000000</id>
+		<link href="http://hire.jonasgalvez.com.br/2017/Jun/23/Why-Choose-Vue.js"/>
 		<title>Why Choose Vue.js</title>
 		<updated>2017-06-23T05:00:00.000Z</updated>
-	</entry>
-	<entry>
-		<id>tag:test.com,2016:1460523600000</id>
-		<link href="http://test.com/2016/Apr/13/A-Million-Schema-Validations-on-Kubernetes"/>
-		<title>A Million Schema Validations on Kubernetes</title>
-		<updated>2016-04-13T05:00:00.000Z</updated>
-	</entry>
-	<entry>
-		<id>tag:test.com,2013:1364706000000</id>
-		<link href="http://test.com/2013/Mar/31/Embrace-Invisible-Labor"/>
-		<title>Embrace Invisible Labor</title>
-		<updated>2013-03-31T05:00:00.000Z</updated>
-	</entry>
-	<entry>
-		<id>tag:test.com,2004:1096088400000</id>
-		<link href="http://test.com/2004/Sep/25/A-40-line-Feed-Aggregator"/>
-		<title>A 40-line Feed Aggregator</title>
-		<updated>2004-09-25T05:00:00.000Z</updated>
-	</entry>
-	<entry>
-		<id>tag:test.com,2004:1087189200000</id>
-		<link href="http://test.com/2004/Jun/14/Atom-W3C/IETF-Discussion"/>
-		<title>Atom W3C/IETF Discussion</title>
-		<updated>2004-06-14T05:00:00.000Z</updated>
 	</entry>
 	
 </feed>
