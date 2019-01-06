@@ -10,10 +10,11 @@
   "author": "Jonas Galvez",
   "dependencies": {
     "@dimerapp/markdown": "^3.2.0",
-    "nuxt": "^2.0.0",
+    "copy-webpack-plugin": "^4.5.2",
     "fs-extra": "^6.0.1",
     "lodash": "^4.17.10",
-    "copy-webpack-plugin": "^4.5.2"
+    "markdown-it": "^8.4.2",
+    "nuxt": "^2.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
